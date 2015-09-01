@@ -1,0 +1,22 @@
+{
+  "name": "betting-on-node",
+  "version": "1.0.0",
+  "description": "a simple betting game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "betting-on-node"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "brian",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  }
+}
